@@ -1,0 +1,26 @@
+commit b5e4a8ec6f725674f357576fd7dd5d9fb4a94589
+Author: ricky <rickaloha2.gmail.com>
+Date:   Sun Dec 9 14:10:57 2018 +0100
+
+    Cambio titulo color naranja
+
+
+commit f83c8fb87803e70f64376865cd9146fed1b1092a
+Author: ricky <rickaloha2.gmail.com>
+Date:   Sun Dec 9 14:06:37 2018 +0100
+
+    Se cambio tamano imagen y color titulo2
+
+
+commit 3df07e917f5fe42c680ad83b393e714c341f309b
+Author: ricky <rickaloha2.gmail.com>
+Date:   Sun Dec 9 13:55:10 2018 +0100
+
+    Cambio titulo blogs
+
+
+commit 45a746ee8912bde2c38954122966c84c1e24dbc1
+Author: ricky <rickaloha2.gmail.com>
+Date:   Sun Dec 9 13:50:48 2018 +0100
+
+    Iniciamos
